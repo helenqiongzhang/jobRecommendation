@@ -26,4 +26,4 @@ Job searching can be a daunting task. This web application is built to help user
 
 
 ✍ Authors
-Helen Qiong Zhang - https://github.com/helenqiongzhang
+ Helen Qiong Zhang - https://github.com/helenqiongzhang
