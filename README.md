@@ -25,6 +25,6 @@ Job searching can be a daunting task. This web application is built to help user
 3. Containerized application using Doker and deployed the service to AWS EC2.
 
 
-✍ Authors
+✍ Author
  
- Helen Qiong Zhang - https://github.com/helenqiongzhang
+Helen Qiong Zhang - https://github.com/helenqiongzhang
