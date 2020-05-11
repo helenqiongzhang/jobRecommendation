@@ -1,30 +1,28 @@
 # jobRecommendation
-A web application that recommends job postings based on user favorited items. 
+A web application for users to search open positions based on location and preference.
 
 🏖️ Motivation
 
-I'm a fan of travelling. However, most travel applications nowadays specialing in a specific aspect of travelling, for example booking hotels or flights. There isn't a centralized place for storing all your reservations and daily activities. I created this application for users to easily create, organize and manage their travel plans. 
+Job searching can be a daunting task. This web application is built to help users search open positions based on location and personal preference.
 
-# User Experience Walkthrough
 
-![Imgur](https://i.imgur.com/apatygz.jpg)
+# Final Website
 
-## To run application
-
-`npm start`
-
-A browser window should appear. Scan the QR code with your camera to open Expo on your mobile phone.
-
-Don't forget to npm install & install the [Expo-CLI](https://facebook.github.io/react-native/docs/getting-started)!
 
 
 🛒 Functionality
 
-Once the user opens the app, he or she can create travel events, and add date information for the event. For adding detailed location information for the event, once the user starts typing, the app will provide place suggestions and input-autocompletion.  Whenever a destination is added to the itinerary, a marker will be simultaneously added to the map view in the app and all destinations will be connected with a polyline to visualize the whole travel itinerary for the user.
+On the home page, users can either log into an existing account or register as a new user. 
+Once logged in as a user, you will be able to see new open positions in your area and you can click on a job posting to favorite the position. All favorited items will be kept in the history page and saved in database.
+If you go to the recommend page, the application will list new open positions based on your previously favorited items.
+
 
 ⚒ Built With
 
-I used react-native to build the frontend components, Google Place API for place suggestion and React-native’s auto-completion and map libraries. For the backend, I used Express and node.js, for database cloud Firestore, a NoSQL database. 
+Front-end was built with HTML/CSS/JavaScript. 
+Back-end implemented RESTful APIs using Java servlets, retrieved job descriptions using Github API, extracted key words using Monkey Learn API and stored data in MySQL.
+Containerized application using Doker and deployed the service to AWS EC2.
+
 
 ✍ Authors
 Helen Qiong Zhang - https://github.com/helenqiongzhang
