@@ -23,8 +23,8 @@ If you go to the recommend page, the application will list new open positions ba
 ⚒ Built With
 
 1. Front-end was built with HTML/CSS/JavaScript. 
-Back-end implemented RESTful APIs using Java servlets, retrieved job descriptions using Github API, extracted key words using Monkey Learn API and stored data in MySQL.
-Containerized application using Doker and deployed the service to AWS EC2.
+2. Back-end implemented RESTful APIs using Java servlets, retrieved job descriptions using Github API, extracted key words using Monkey Learn API and stored data in MySQL.
+3. Containerized application using Doker and deployed the service to AWS EC2.
 
 
 ✍ Authors
