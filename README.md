@@ -8,6 +8,8 @@ Job searching can be a daunting task. This web application is built to help user
 
 🐥 Final Website
 
+http://18.220.220.31/jupiter/
+
 
 
 🛒 Functionality
